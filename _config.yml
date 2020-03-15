@@ -23,7 +23,7 @@ baseurl : "" # does not include hostname
 title   : "Kim68's blog"
 description: > # this means to ignore newlines until "Language & timezone"
   Your Site Description
-"A website for memory"
+A website for memory.
 
 ## => Language and Timezone
 ##############################
